@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "shoto") (type "KiCad") (uri "${KIPRJMOD}/shoto.pretty") (options "") (descr ""))
+)
